@@ -40,7 +40,7 @@ duration = st.number_input(
 )
 
 new_repeat = st.selectbox(
-    "Loan Type",
+    "New vs Repeat Loan",
     ["New Loan", "Repeat Loan"]
 )
 
