@@ -1,4 +1,4 @@
-# African Credit Scoring Challenge
+# Credit Scoring 
 
 A machine learning project for predicting loan default risk using the African Credit Scoring Challenge dataset from Zindi.
 
